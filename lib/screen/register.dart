@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:proworktreedemo/screen/homescreen.dart';
 import 'package:proworktreedemo/screen/loginscreen.dart';
-import 'package:proworktreedemo/shared.dart';
+import 'package:proworktreedemo/shared/shared.dart';
 
 class Register extends StatefulWidget {
   @override
